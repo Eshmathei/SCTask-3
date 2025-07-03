@@ -33,8 +33,10 @@ Enter your 3x3 Sudoku grid (use 0 for blanks):
 - No external libraries
 
 ## Author:
+
 Eshmath E I
 BTech Student
+
 SkillCraft Technology – Software Development Intern
 
 
