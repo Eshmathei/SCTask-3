@@ -18,15 +18,19 @@ The program supports 3x3, 4x4, and 9x9 Sudoku grids and fills in missing numbers
 
 ## Sample Output:
 🔢 Enter Sudoku size (3, 4, or 9): 3
-Enter your 3x3 Sudoku grid (use 0 for blanks):
-1 0 3
-0 3 0
-0 0 1
+🧾 Input Grid:
++--+--+--+
+| 1 . 3 | 
+| . 3 . | 
+| . . 1 | 
++--+--+--+
 
 ✅ Solved Sudoku:
-1 2 3
-2 3 1
-3 1 2
++--+--+--+
+| 1 2 3 | 
+| 2 3 1 | 
+| 3 1 2 | 
++--+--+--+
 
 ## Requirements:
 - g++ compiler
